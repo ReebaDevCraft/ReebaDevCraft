@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @ReebaDevCraft!
+- 👋 Hi, I'm ReebaDevCraft👩‍💻
 
 👀 I'm passionate about coding and frontend development, constantly seeking to expand my knowledge and skills.
 
